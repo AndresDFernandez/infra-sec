@@ -139,7 +139,7 @@ class RoboNmap(object):
         elif portlist and not script_name:
             nmap_proc_cmd = "-Pn -sV --version-intensity {0} -sC -p {1}".format(version_intense, portlist)
         elif script_name and not portlist:
-            raise Exception('EXCEPTION: If you use specific script, you have to specify a port')
+            nmap_proc_cmd = "-Pn -sV --version-intensity {0} -sC --script {1}".format(version_intense, script_name)
         else:
             nmap_proc_cmd = "-Pn -sV --version-intensity {0} -sC".format(version_intense)
 
