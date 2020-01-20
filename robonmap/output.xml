@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20191114 14:16:49.501" generator="Robot 3.0.2 (Python 2.7.16 on darwin)">
+<suite source="/Users/andres/Documents/GitHub/infra-sec/robonmap/NmapTest.robot" id="s1" name="NmapTest">
+<test id="s1-t1" name="Run Basic Port Scan">
+<kw name="Nmap Script Scan" library="RoboNmap">
+<doc>Runs nmap with the -sC arg or the --script arg if script_name is provided. Options used are: -sV --version-intensity &lt;default:0&gt; -sC|--script=&lt;script_name&gt;</doc>
+<arguments>
+<arg>${TARGET}</arg>
+<arg>version_intense=3</arg>
+<arg>file_export=nmap.txt</arg>
+</arguments>
+<msg timestamp="20191114 14:16:52.679" level="INFO">NmapReport: started at 1573712209 hosts up 1/1</msg>
+<status status="PASS" endtime="20191114 14:16:52.679" starttime="20191114 14:16:49.568"></status>
+</kw>
+<kw name="Nmap Print Results" library="RoboNmap">
+<doc>Retrieves the results of the most recent results</doc>
+<msg timestamp="20191114 14:16:52.680" level="INFO">NmapHost: [172.16.14.234 () - up]</msg>
+<msg timestamp="20191114 14:16:52.680" level="INFO">  PORT     STATE         SERVICE</msg>
+<status status="PASS" endtime="20191114 14:16:52.680" starttime="20191114 14:16:52.679"></status>
+</kw>
+<status status="PASS" endtime="20191114 14:16:52.680" critical="yes" starttime="20191114 14:16:49.567"></status>
+</test>
+<test id="s1-t2" name="Run Vulnerabilities scan">
+<kw name="Nmap Script Scan" library="RoboNmap">
+<doc>Runs nmap with the -sC arg or the --script arg if script_name is provided. Options used are: -sV --version-intensity &lt;default:0&gt; -sC|--script=&lt;script_name&gt;</doc>
+<arguments>
+<arg>${TARGET}</arg>
+<arg>version_intense=3</arg>
+<arg>file_export=nmap.txt</arg>
+<arg>script_name=vuln</arg>
+<arg>portlist=80</arg>
+</arguments>
+<msg timestamp="20191114 14:17:28.630" level="INFO">NmapReport: started at 1573712212 hosts up 1/1</msg>
+<status status="PASS" endtime="20191114 14:17:28.630" starttime="20191114 14:16:52.681"></status>
+</kw>
+<kw name="Nmap Print Results" library="RoboNmap">
+<doc>Retrieves the results of the most recent results</doc>
+<msg timestamp="20191114 14:17:28.631" level="INFO">NmapHost: [172.16.14.234 () - up]</msg>
+<msg timestamp="20191114 14:17:28.631" level="INFO">  PORT     STATE         SERVICE</msg>
+<msg timestamp="20191114 14:17:28.631" level="INFO">   80/tcp  closed        http</msg>
+<status status="PASS" endtime="20191114 14:17:28.631" starttime="20191114 14:17:28.630"></status>
+</kw>
+<status status="PASS" endtime="20191114 14:17:28.631" critical="yes" starttime="20191114 14:16:52.680"></status>
+</test>
+<status status="PASS" endtime="20191114 14:17:28.632" starttime="20191114 14:16:49.503"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="2">Critical Tests</stat>
+<stat fail="0" pass="2">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="NmapTest" pass="2">NmapTest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
