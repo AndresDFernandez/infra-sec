@@ -5,7 +5,7 @@ import nmap
 print('amazing super scan')
 
 nmap = nmap.PortScanner() 
-host = '172.16.0.0-20' 
+host = 
 nmap.scan(host, '1-443') 
 
 for host in nmap.all_hosts(): 
@@ -24,7 +24,7 @@ for host in nmap.all_hosts():
             print ('port : %s\tstate : %s' % (port, nmap[str(host)][proto][port]['state']))    
 
 
-#for host in ipcalc.Network('172.16.14.0/24'):
+
 
 
   
