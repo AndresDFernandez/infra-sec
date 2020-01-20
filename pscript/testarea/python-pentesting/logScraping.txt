@@ -1,0 +1,5358 @@
+
+jpg images
+--------------
+
+Scraping the server for images and pdfs.... www.ua.es
+Found 41 images
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+http://www.ua.es
+Found 0 pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+
+Scraping the server for images and pdfs.... 193.145.233.8
+Found 41 images
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+http://193.145.233.8
+Found 0 pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+BeautifulSoup..............
+/css/imagenes/logo-ua.png
+global name 'url' is not defined
+Error to connect with www.ua.es for scraping the site
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+(0)-->EXIT
+(1)-->Check Open Ports
+(2)-->Check Option methods
+(3)-->Check DNS Servers info
+(4)-->Check Host info fron Shodan Service
+(5)-->NMAP Scanning
+(6)-->Host Info by Socket Call
+(7)-->GeoLocation Host Info
+(8)-->Scraping for images and pdf & obtain metadata
+(9)-->Get Headers info
+(10)-->Get SSH user/password Brute Force
+(11)-->Get FTP Anonymous access
+(12)-->MetaSploitFrameWork
+(13)-->NexposeFramework
+(14)-->HTTP SCAN
+(15)-->Check HeartBleed OpenSSL vulnerability
+(16)-->Check Domains
+Choose an option:
+Scraping the server for images and pdfs.... www.ua.es
+Found 41 images
+http://www.ua.es/css/imagenes/logo-ua.png
+http://www.ua.es/css/imagenes/uacloud.png
+http://www.ua.es/ultima-hora/es/2015/10/transparenciaesp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/estudiaenlaua04esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/investigacion12esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/internacionales15esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/cultura16esp.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/rss.png
+http://www.ua.es/ultima-hora/es/2015/10/foto-noticia-plastico.jpg
+http://www.ua.es/ultima-hora/es/2015/10/foto-noticia-juzgado.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/es/imagenes/portada/datos-abiertos.jpg
+http://www.ua.es/css/imagenes/subir.png
+http://www.ua.es/es/imagenes/portada/enlaua/boua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/parquecientifico.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/csi.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/cervantesvirtual.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/fundacionua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/boua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/reus.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/rss.png
+http://www.ua.es/css/imagenes/estudiaenlaua.png
+http://web.ua.es/va/imagenes/estudiaenlaua.png
+http://www.ua.es/css/imagenes/i-facebook.png
+http://www.ua.es/css/imagenes/i-twitter.png
+http://www.ua.es/css/imagenes/i-youtube.png
+http://www.ua.es/css/imagenes/i-itune.png
+http://www.ua.es/css/imagenes/i-apple.png
+http://www.ua.es/css/imagenes/i-android.png
+http://www.ua.es/css/imagenes/i-instagram.png
+http://www.ua.es/css/imagenes/i-linkedin.png
+http://www.ua.es/css/imagenes/pie-eua.gif
+http://www.ua.es/css/imagenes/pie-xarxavives.gif
+http://www.ua.es/css/imagenes/pie-crue.gif
+http://www.ua.es/css/imagenes/pie-universia.gif
+http://www.ua.es/css/imagenes/pie-reus.jpg
+http://www.ua.es/css/imagenes/gc-es.png
+Found 0 pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+
+Scraping the server for images and pdfs.... 193.145.233.8
+Found 41 images
+http://193.145.233.8/css/imagenes/logo-ua.png
+http://193.145.233.8/css/imagenes/uacloud.png
+http://www.ua.es/ultima-hora/es/2015/10/transparenciaesp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/estudiaenlaua04esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/investigacion12esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/internacionales15esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/cultura16esp.jpg
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/css/imagenes/rss.png
+http://193.145.233.8/ultima-hora/es/2015/10/foto-noticia-plastico.jpg
+http://193.145.233.8/ultima-hora/es/2015/10/foto-noticia-juzgado.jpg
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/es/imagenes/portada/datos-abiertos.jpg
+http://193.145.233.8/css/imagenes/subir.png
+http://193.145.233.8/es/imagenes/portada/enlaua/boua.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/parquecientifico.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/csi.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/cervantesvirtual.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/fundacionua.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/boua.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/reus.jpg
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/css/imagenes/rss.png
+http://www.ua.es/css/imagenes/estudiaenlaua.png
+http://web.ua.es/va/imagenes/estudiaenlaua.png
+http://193.145.233.8/css/imagenes/i-facebook.png
+http://193.145.233.8/css/imagenes/i-twitter.png
+http://193.145.233.8/css/imagenes/i-youtube.png
+http://193.145.233.8/css/imagenes/i-itune.png
+http://193.145.233.8/css/imagenes/i-apple.png
+http://193.145.233.8/css/imagenes/i-android.png
+http://193.145.233.8/css/imagenes/i-instagram.png
+http://193.145.233.8/css/imagenes/i-linkedin.png
+http://193.145.233.8/css/imagenes/pie-eua.gif
+http://193.145.233.8/css/imagenes/pie-xarxavives.gif
+http://193.145.233.8/css/imagenes/pie-crue.gif
+http://193.145.233.8/css/imagenes/pie-universia.gif
+http://193.145.233.8/css/imagenes/pie-reus.jpg
+http://193.145.233.8/css/imagenes/gc-es.png
+Found 0 pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+BeautifulSoup..............
+global name 'url' is not defined
+Error to connect with www.ua.es for scraping the site
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+(0)-->EXIT
+(1)-->Check Open Ports
+(2)-->Check Option methods
+(3)-->Check DNS Servers info
+(4)-->Check Host info fron Shodan Service
+(5)-->NMAP Scanning
+(6)-->Host Info by Socket Call
+(7)-->GeoLocation Host Info
+(8)-->Scraping for images and pdf & obtain metadata
+(9)-->Get Headers info
+(10)-->Get SSH user/password Brute Force
+(11)-->Get FTP Anonymous access
+(12)-->MetaSploitFrameWork
+(13)-->NexposeFramework
+(14)-->HTTP SCAN
+(15)-->Check HeartBleed OpenSSL vulnerability
+(16)-->Check Domains
+Choose an option:
+jpg images
+--------------
+
+jpg images
+--------------
+http://www.ua.es/ultima-hora/es/2015/10/transparenciaesp.jpg 
+
+http://www.ua.es/ultima-hora/es/2015/10/estudiaenlaua04esp.jpg 
+
+http://www.ua.es/ultima-hora/es/2015/10/investigacion12esp.jpg 
+
+http://www.ua.es/ultima-hora/es/2015/10/internacionales15esp.jpg 
+
+http://www.ua.es/ultima-hora/es/2015/10/cultura16esp.jpg 
+
+/es/imagenes/portada/sliders/s02.jpg 
+
+/es/imagenes/portada/sliders/s03.jpg 
+
+/ultima-hora/es/2015/10/foto-noticia-plastico.jpg 
+
+/ultima-hora/es/2015/10/foto-noticia-juzgado.jpg 
+
+/es/imagenes/portada/datos-abiertos.jpg 
+
+/es/imagenes/portada/enlaua/boua.jpg 
+
+/es/imagenes/portada/enlaua/parquecientifico.jpg 
+
+/es/imagenes/portada/enlaua/csi.jpg 
+
+/es/imagenes/portada/enlaua/cervantesvirtual.jpg 
+
+/es/imagenes/portada/enlaua/fundacionua.jpg 
+
+/es/imagenes/portada/enlaua/boua.jpg 
+
+/es/imagenes/portada/enlaua/reus.jpg 
+
+/css/imagenes/pie-reus.jpg 
+
+
+png images
+--------------
+/css/imagenes/logo-ua.png 
+
+/css/imagenes/uacloud.png 
+
+/css/imagenes/mas.png 
+
+/css/imagenes/rss.png 
+
+/css/imagenes/mas.png 
+
+/css/imagenes/subir.png 
+
+/css/imagenes/mas.png 
+
+/css/imagenes/mas.png 
+
+http://www.ua.es/css/imagenes/estudiaenlaua.png 
+
+http://web.ua.es/va/imagenes/estudiaenlaua.png 
+
+/css/imagenes/i-facebook.png 
+
+/css/imagenes/i-twitter.png 
+
+/css/imagenes/i-youtube.png 
+
+/css/imagenes/i-itune.png 
+
+/css/imagenes/i-apple.png 
+
+/css/imagenes/i-android.png 
+
+/css/imagenes/i-instagram.png 
+
+/css/imagenes/i-linkedin.png 
+
+/css/imagenes/gc-es.png 
+
+
+gif images
+--------------
+/css/imagenes/pie-eua.gif 
+
+/css/imagenes/pie-xarxavives.gif 
+
+/css/imagenes/pie-crue.gif 
+
+/css/imagenes/pie-universia.gif 
+
+
+Scraping the server for images and pdfs.... www.ua.es
+Found 41 images
+http://www.ua.es/css/imagenes/logo-ua.png
+http://www.ua.es/css/imagenes/uacloud.png
+http://www.ua.es/ultima-hora/es/2015/10/transparenciaesp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/estudiaenlaua04esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/investigacion12esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/internacionales15esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/cultura16esp.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/rss.png
+http://www.ua.es/ultima-hora/es/2015/10/foto-noticia-plastico.jpg
+http://www.ua.es/ultima-hora/es/2015/10/foto-noticia-juzgado.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/es/imagenes/portada/datos-abiertos.jpg
+http://www.ua.es/css/imagenes/subir.png
+http://www.ua.es/es/imagenes/portada/enlaua/boua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/parquecientifico.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/csi.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/cervantesvirtual.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/fundacionua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/boua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/reus.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/rss.png
+http://www.ua.es/css/imagenes/estudiaenlaua.png
+http://web.ua.es/va/imagenes/estudiaenlaua.png
+http://www.ua.es/css/imagenes/i-facebook.png
+http://www.ua.es/css/imagenes/i-twitter.png
+http://www.ua.es/css/imagenes/i-youtube.png
+http://www.ua.es/css/imagenes/i-itune.png
+http://www.ua.es/css/imagenes/i-apple.png
+http://www.ua.es/css/imagenes/i-android.png
+http://www.ua.es/css/imagenes/i-instagram.png
+http://www.ua.es/css/imagenes/i-linkedin.png
+http://www.ua.es/css/imagenes/pie-eua.gif
+http://www.ua.es/css/imagenes/pie-xarxavives.gif
+http://www.ua.es/css/imagenes/pie-crue.gif
+http://www.ua.es/css/imagenes/pie-universia.gif
+http://www.ua.es/css/imagenes/pie-reus.jpg
+http://www.ua.es/css/imagenes/gc-es.png
+Found 0 pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+
+Scraping the server for images and pdfs.... 193.145.233.8
+Found 41 images
+http://193.145.233.8/css/imagenes/logo-ua.png
+http://193.145.233.8/css/imagenes/uacloud.png
+http://www.ua.es/ultima-hora/es/2015/10/transparenciaesp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/estudiaenlaua04esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/investigacion12esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/internacionales15esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/cultura16esp.jpg
+http://193.145.233.8/css/imagenes/mas.png
+
+jpg images
+--------------
+http://www.ua.eshttp://www.ua.es/ultima-hora/es/2015/10/transparenciaesp.jpg 
+
+http://www.ua.eshttp://www.ua.es/ultima-hora/es/2015/10/estudiaenlaua04esp.jpg 
+
+http://www.ua.eshttp://www.ua.es/ultima-hora/es/2015/10/investigacion12esp.jpg 
+
+http://www.ua.eshttp://www.ua.es/ultima-hora/es/2015/10/internacionales15esp.jpg 
+
+http://www.ua.eshttp://www.ua.es/ultima-hora/es/2015/10/cultura16esp.jpg 
+
+http://www.ua.es/es/imagenes/portada/sliders/s02.jpg 
+
+http://www.ua.es/es/imagenes/portada/sliders/s03.jpg 
+
+http://www.ua.es/ultima-hora/es/2015/10/foto-noticia-plastico.jpg 
+
+http://www.ua.es/ultima-hora/es/2015/10/foto-noticia-juzgado.jpg 
+
+http://www.ua.es/es/imagenes/portada/datos-abiertos.jpg 
+
+http://www.ua.es/es/imagenes/portada/enlaua/boua.jpg 
+
+http://www.ua.es/es/imagenes/portada/enlaua/parquecientifico.jpg 
+
+http://www.ua.es/es/imagenes/portada/enlaua/csi.jpg 
+
+http://www.ua.es/es/imagenes/portada/enlaua/cervantesvirtual.jpg 
+
+http://www.ua.es/es/imagenes/portada/enlaua/fundacionua.jpg 
+
+http://www.ua.es/es/imagenes/portada/enlaua/boua.jpg 
+
+http://www.ua.es/es/imagenes/portada/enlaua/reus.jpg 
+
+http://www.ua.es/css/imagenes/pie-reus.jpg 
+
+
+png images
+--------------
+http://www.ua.es/css/imagenes/logo-ua.png 
+
+http://www.ua.es/css/imagenes/uacloud.png 
+
+http://www.ua.es/css/imagenes/mas.png 
+
+http://www.ua.es/css/imagenes/rss.png 
+
+http://www.ua.es/css/imagenes/mas.png 
+
+http://www.ua.es/css/imagenes/subir.png 
+
+http://www.ua.es/css/imagenes/mas.png 
+
+http://www.ua.es/css/imagenes/mas.png 
+
+http://www.ua.eshttp://www.ua.es/css/imagenes/estudiaenlaua.png 
+
+http://www.ua.eshttp://web.ua.es/va/imagenes/estudiaenlaua.png 
+
+http://www.ua.es/css/imagenes/i-facebook.png 
+
+http://www.ua.es/css/imagenes/i-twitter.png 
+
+http://www.ua.es/css/imagenes/i-youtube.png 
+
+http://www.ua.es/css/imagenes/i-itune.png 
+
+http://www.ua.es/css/imagenes/i-apple.png 
+
+http://www.ua.es/css/imagenes/i-android.png 
+
+http://www.ua.es/css/imagenes/i-instagram.png 
+
+http://www.ua.es/css/imagenes/i-linkedin.png 
+
+http://www.ua.es/css/imagenes/gc-es.png 
+
+
+gif images
+--------------
+http://www.ua.es/css/imagenes/pie-eua.gif 
+
+http://www.ua.es/css/imagenes/pie-xarxavives.gif 
+
+http://www.ua.es/css/imagenes/pie-crue.gif 
+
+http://www.ua.es/css/imagenes/pie-universia.gif 
+
+
+Scraping the server for images and pdfs.... www.ua.es
+Found 41 images
+http://www.ua.es/css/imagenes/logo-ua.png
+http://www.ua.es/css/imagenes/uacloud.png
+http://www.ua.es/ultima-hora/es/2015/10/transparenciaesp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/estudiaenlaua04esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/investigacion12esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/internacionales15esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/cultura16esp.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/rss.png
+http://www.ua.es/ultima-hora/es/2015/10/foto-noticia-plastico.jpg
+http://www.ua.es/ultima-hora/es/2015/10/foto-noticia-juzgado.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/es/imagenes/portada/datos-abiertos.jpg
+http://www.ua.es/css/imagenes/subir.png
+http://www.ua.es/es/imagenes/portada/enlaua/boua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/parquecientifico.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/csi.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/cervantesvirtual.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/fundacionua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/boua.jpg
+http://www.ua.es/es/imagenes/portada/enlaua/reus.jpg
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/mas.png
+http://www.ua.es/css/imagenes/rss.png
+http://www.ua.es/css/imagenes/estudiaenlaua.png
+http://web.ua.es/va/imagenes/estudiaenlaua.png
+http://www.ua.es/css/imagenes/i-facebook.png
+http://www.ua.es/css/imagenes/i-twitter.png
+http://www.ua.es/css/imagenes/i-youtube.png
+http://www.ua.es/css/imagenes/i-itune.png
+http://www.ua.es/css/imagenes/i-apple.png
+http://www.ua.es/css/imagenes/i-android.png
+http://www.ua.es/css/imagenes/i-instagram.png
+http://www.ua.es/css/imagenes/i-linkedin.png
+http://www.ua.es/css/imagenes/pie-eua.gif
+http://www.ua.es/css/imagenes/pie-xarxavives.gif
+http://www.ua.es/css/imagenes/pie-crue.gif
+http://www.ua.es/css/imagenes/pie-universia.gif
+http://www.ua.es/css/imagenes/pie-reus.jpg
+http://www.ua.es/css/imagenes/gc-es.png
+Found 0 pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+
+Scraping the server for images and pdfs.... 193.145.233.8
+Found 41 images
+http://193.145.233.8/css/imagenes/logo-ua.png
+http://193.145.233.8/css/imagenes/uacloud.png
+http://www.ua.es/ultima-hora/es/2015/10/transparenciaesp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/estudiaenlaua04esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/investigacion12esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/internacionales15esp.jpg
+http://www.ua.es/ultima-hora/es/2015/10/cultura16esp.jpg
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/css/imagenes/rss.png
+http://193.145.233.8/ultima-hora/es/2015/10/foto-noticia-plastico.jpg
+http://193.145.233.8/ultima-hora/es/2015/10/foto-noticia-juzgado.jpg
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/es/imagenes/portada/datos-abiertos.jpg
+http://193.145.233.8/css/imagenes/subir.png
+http://193.145.233.8/es/imagenes/portada/enlaua/boua.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/parquecientifico.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/csi.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/cervantesvirtual.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/fundacionua.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/boua.jpg
+http://193.145.233.8/es/imagenes/portada/enlaua/reus.jpg
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/css/imagenes/mas.png
+http://193.145.233.8/css/imagenes/rss.png
+http://www.ua.es/css/imagenes/estudiaenlaua.png
+http://web.ua.es/va/imagenes/estudiaenlaua.png
+http://193.145.233.8/css/imagenes/i-facebook.png
+http://193.145.233.8/css/imagenes/i-twitter.png
+http://193.145.233.8/css/imagenes/i-youtube.png
+http://193.145.233.8/css/imagenes/i-itune.png
+http://193.145.233.8/css/imagenes/i-apple.png
+http://193.145.233.8/css/imagenes/i-android.png
+http://193.145.233.8/css/imagenes/i-instagram.png
+http://193.145.233.8/css/imagenes/i-linkedin.png
+http://193.145.233.8/css/imagenes/pie-eua.gif
+http://193.145.233.8/css/imagenes/pie-xarxavives.gif
+http://193.145.233.8/css/imagenes/pie-crue.gif
+http://193.145.233.8/css/imagenes/pie-universia.gif
+http://193.145.233.8/css/imagenes/pie-reus.jpg
+http://193.145.233.8/css/imagenes/gc-es.png
+Found 0 pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+BeautifulSoup..............
+global name 'url' is not defined
+Error to connect with www.ua.es for scraping the site
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+
+(0)-->EXIT
+(1)-->Check Open Ports
+(2)-->Check Option methods
+(3)-->Check DNS Servers info
+(4)-->Check Host info fron Shodan Service
+(5)-->NMAP Scanning
+(6)-->Host Info by Socket Call
+(7)-->GeoLocation Host Info
+(8)-->Scraping for images and pdf & obtain metadata
+(9)-->Get Headers info
+(10)-->Get SSH user/password Brute Force
+(11)-->Get FTP Anonymous access
+(12)-->MetaSploitFrameWork
+(13)-->NexposeFramework
+(14)-->HTTP SCAN
+(15)-->Check HeartBleed OpenSSL vulnerability
+(16)-->Check Domains
+Choose an option:
+jpg images
+--------------
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/epsa_medi.jpg 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/noticias/juegos_mini.jpg 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/noticias/android_mini.jpg 
+
+
+png images
+--------------
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/-gestadm/cabecera.png 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/uacloud_medi.png 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/noticias/programacion-web-para-moviles_mini.png 
+
+
+gif images
+--------------
+http://www.dccia.ua.eshttp://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif 
+
+http://www.dccia.ua.eshttp://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/webmail_medi.gif 
+
+
+Scraping the server for images and pdfs.... www.dccia.ua.es
+Found 14 images
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/dccia/imagenes/-gestadm/cabecera.png
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/uacloud_medi.png
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/webmail_medi.gif
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/epsa_medi.jpg
+http://web.ua.es/es/dccia/imagenes/-gestadm/logotipos/logodccia.jpg
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/juegos_mini.jpg
+http://web.ua.es/es/dccia/imagenes/noticias/programacion-web-para-moviles_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/android_mini.jpg
+Found 1 pdf
+http://web.ua.es/es/dccia/dccia_pdf.pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\android_mini.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cabecera.png 
+No metadata info
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\epsa_medi.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\experto-java_mini.png 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\juegos_mini.jpg 
+No metadata info
+Metadata: ExifOffset - Value: 58 
+Metadata: DateTime - Value: 2011:07:13 14:19:28 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\logodccia.jpg 
+No metadata info
+Metadata: YResolution - Value: (2362200, 10000) 
+Metadata: ResolutionUnit - Value: 3 
+Metadata: Orientation - Value: 1 
+Metadata: ExifOffset - Value: 164 
+Metadata: ColorSpace - Value: 1 
+Metadata: DateTime - Value: 2015:06:12 12:03:29 
+Metadata: ExifImageWidth - Value: 660 
+Metadata: ExifImageHeight - Value: 59 
+Metadata: XResolution - Value: (2362200, 10000) 
+Metadata: Software - Value: Adobe Photoshop CS5 Windows 
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\programacion-web-para-moviles_mini.png 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\transparente.gif 
+No metadata info
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+[+] Metadata for file: images\uacloud_medi.png 
+No metadata info
+
+
+[+] Metadata for file: images\webmail_medi.gif 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+[+] Metadata for file: pdfs\dccia_pdf.pdf 
+Error to Obtain PDF METADATA
+
+Scraping the server for images and pdfs.... 193.145.231.148
+Found 14 images
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/dccia/imagenes/-gestadm/cabecera.png
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/uacloud_medi.png
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/webmail_medi.gif
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/epsa_medi.jpg
+http://web.ua.es/es/dccia/imagenes/-gestadm/logotipos/logodccia.jpg
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/juegos_mini.jpg
+http://web.ua.es/es/dccia/imagenes/noticias/programacion-web-para-moviles_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/android_mini.jpg
+Found 1 pdf
+http://web.ua.es/es/dccia/dccia_pdf.pdf
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\android_mini.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cabecera.png 
+No metadata info
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\epsa_medi.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\experto-java_mini.png 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\juegos_mini.jpg 
+No metadata info
+Metadata: ExifOffset - Value: 58 
+Metadata: DateTime - Value: 2011:07:13 14:19:28 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\logodccia.jpg 
+No metadata info
+Metadata: YResolution - Value: (2362200, 10000) 
+Metadata: ResolutionUnit - Value: 3 
+Metadata: Orientation - Value: 1 
+Metadata: ExifOffset - Value: 164 
+Metadata: ColorSpace - Value: 1 
+Metadata: DateTime - Value: 2015:06:12 12:03:29 
+Metadata: ExifImageWidth - Value: 660 
+Metadata: ExifImageHeight - Value: 59 
+Metadata: XResolution - Value: (2362200, 10000) 
+Metadata: Software - Value: Adobe Photoshop CS5 Windows 
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\programacion-web-para-moviles_mini.png 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\transparente.gif 
+No metadata info
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+[+] Metadata for file: images\uacloud_medi.png 
+No metadata info
+
+
+[+] Metadata for file: images\webmail_medi.gif 
+No metadata info
+
+
+
+Get Metatada PDF
+------------------------------------
+[+] Metadata for file: pdfs\dccia_pdf.pdf 
+Error to Obtain PDF METADATA
+BeautifulSoup..............
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/comun/imagenes/-gestadm/plantilla4/css/transparente.gif
+http://web.ua.es/es/dccia/imagenes/-gestadm/cabecera.png
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/uacloud_medi.png
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/webmail_medi.gif
+http://web.ua.es/es/dccia/imagenes/-gestadm/anuncios/epsa_medi.jpg
+http://web.ua.es/es/dccia/imagenes/-gestadm/logotipos/logodccia.jpg
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/experto-java_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/juegos_mini.jpg
+http://web.ua.es/es/dccia/imagenes/noticias/programacion-web-para-moviles_mini.png
+http://web.ua.es/es/dccia/imagenes/noticias/android_mini.jpg
+
+Get Metatada Image
+------------------------------------
+[+] Metadata for file: images\android_mini.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\boua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:54:58 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cabecera.png 
+No metadata info
+
+
+[+] Metadata for file: images\cervantesvirtual.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:50 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\csi.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:10:03 11:24:05 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\cultura16esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:23:24 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\datos-abiertos.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\epsa_medi.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua.png 
+No metadata info
+
+
+[+] Metadata for file: images\estudiaenlaua04esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:15:37 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\experto-java_mini.png 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-juzgado.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\foto-noticia-plastico.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\fundacionua.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:20 08:51:21 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\gc-es.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-android.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-apple.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-facebook.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-instagram.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-itune.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-linkedin.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-twitter.png 
+No metadata info
+
+
+[+] Metadata for file: images\i-youtube.png 
+No metadata info
+
+
+[+] Metadata for file: images\internacionales15esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:25:56 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\investigacion12esp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:10:02 13:19:33 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\juegos_mini.jpg 
+No metadata info
+Metadata: ExifOffset - Value: 58 
+Metadata: DateTime - Value: 2011:07:13 14:19:28 
+
+
+[+] Metadata for file: images\logo-ua.png 
+No metadata info
+
+
+[+] Metadata for file: images\logodccia.jpg 
+No metadata info
+Metadata: YResolution - Value: (2362200, 10000) 
+Metadata: ResolutionUnit - Value: 3 
+Metadata: Orientation - Value: 1 
+Metadata: ExifOffset - Value: 164 
+Metadata: ColorSpace - Value: 1 
+Metadata: DateTime - Value: 2015:06:12 12:03:29 
+Metadata: ExifImageWidth - Value: 660 
+Metadata: ExifImageHeight - Value: 59 
+Metadata: XResolution - Value: (2362200, 10000) 
+Metadata: Software - Value: Adobe Photoshop CS5 Windows 
+
+
+[+] Metadata for file: images\mas.png 
+No metadata info
+
+
+[+] Metadata for file: images\parquecientifico.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:09:19 14:13:39 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\pie-crue.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-eua.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-reus.jpg 
+No metadata info
+
+
+[+] Metadata for file: images\pie-universia.gif 
+No metadata info
+
+
+[+] Metadata for file: images\pie-xarxavives.gif 
+No metadata info
+
+
+[+] Metadata for file: images\programacion-web-para-moviles_mini.png 
+No metadata info
+
+
+[+] Metadata for file: images\reus.jpg 
+No metadata info
+Metadata: YResolution - Value: (720000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 100 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 280 
+Metadata: ExifImageHeight - Value: 100 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2012:11:15 12:05:17 
+Metadata: XResolution - Value: (720000, 10000) 
+Metadata: ExifOffset - Value: 232 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 280 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CS5 Macintosh 
+
+
+[+] Metadata for file: images\rss.png 
+No metadata info
+
+
+[+] Metadata for file: images\subir.png 
+No metadata info
+
+
+[+] Metadata for file: images\transparenciaesp.jpg 
+No metadata info
+Metadata: YResolution - Value: (2000000, 10000) 
+Metadata: BitsPerSample - Value: (8, 8, 8) 
+Metadata: ImageLength - Value: 300 
+Metadata: Orientation - Value: 1 
+Metadata: ExifImageWidth - Value: 700 
+Metadata: ExifImageHeight - Value: 300 
+Metadata: ColorSpace - Value: 65535 
+Metadata: ResolutionUnit - Value: 2 
+Metadata: DateTime - Value: 2015:09:30 13:31:45 
+Metadata: XResolution - Value: (2000000, 10000) 
+Metadata: ExifOffset - Value: 236 
+Metadata: PhotometricInterpretation - Value: 2 
+Metadata: ExifVersion - Value: 0221 
+Metadata: ImageWidth - Value: 700 
+Metadata: SamplesPerPixel - Value: 3 
+Metadata: Software - Value: Adobe Photoshop CC 2014 (Macintosh) 
+
+
+[+] Metadata for file: images\transparente.gif 
+No metadata info
+
+
+[+] Metadata for file: images\uacloud.png 
+No metadata info
+
+
+[+] Metadata for file: images\uacloud_medi.png 
+No metadata info
+
+
+[+] Metadata for file: images\webmail_medi.gif 
+No metadata info
+
+
+
+(0)-->EXIT
+(1)-->Check Open Ports
+(2)-->Check Option methods
+(3)-->Check DNS Servers info
+(4)-->Check Host info fron Shodan Service
+(5)-->NMAP Scanning
+(6)-->Host Info by Socket Call
+(7)-->GeoLocation Host Info
+(8)-->Scraping for images and pdf & obtain metadata
+(9)-->Get Headers info
+(10)-->Get SSH user/password Brute Force
+(11)-->Get FTP Anonymous access
+(12)-->MetaSploitFrameWork
+(13)-->NexposeFramework
+(14)-->HTTP SCAN
+(15)-->Check HeartBleed OpenSSL vulnerability
+(16)-->Check Domains
+Choose an option:
+jpg images
+--------------
+
+png images
+--------------
+http://172.16.0.11web_images/icon.png 
+
+
+gif images
+--------------
+
+Scraping the server for images and pdfs.... 172.16.0.11
+http://172.16.0.11
+Found 1 images
+http://172.16.0.11web_images/icon.png
+HTTPConnectionPool(host='172.16.0.11web_images', port=80): Max retries exceeded with url: /icon.png (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105145590>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+Error to connect with 172.16.0.11 for scraping the site
+
+Get Metatada Image
+------------------------------------
+
+Get Metatada PDF
+------------------------------------
+
+Scraping the server for images and pdfs.... 172.16.0.11
+http://172.16.0.11
+Found 1 images
+http://172.16.0.11web_images/icon.png
+HTTPConnectionPool(host='172.16.0.11web_images', port=80): Max retries exceeded with url: /icon.png (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x105145190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known',))
+Error to connect with 172.16.0.11 for scraping the site
+
+Get Metatada Image
+------------------------------------
+
+Get Metatada PDF
+------------------------------------
+BeautifulSoup..............
+global name 'url' is not defined
+Error to connect with 172.16.0.11 for scraping the site
+
+Get Metatada Image
+------------------------------------
+BeautifulSoup..............
+global name 'url' is not defined
+Error to connect with 172.16.0.11 for scraping the site
+
+Get Metatada Image
+------------------------------------
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:200  {'Content-Encoding': 'gzip', 'Vary': 'Accept-Encoding', 'Keep-Alive': 'timeout=20', 'Server': 'nginx', 'Last-Modified': 'Tue, 08 Aug 2017 15:12:38 GMT', 'Connection': 'keep-alive', 'ETag': 'W/"5989d4e6-5c2"', 'Date': 'Mon, 18 Nov 2019 10:06:09 GMT', 'Content-Type': 'text/html'}
+Server : nginx
+Date : Mon, 18 Nov 2019 10:06:09 GMT
+Content-Type : text/html
+Transfer-Encoding : chunked
+Connection : keep-alive
+Keep-Alive : timeout=20
+Vary : Accept-Encoding
+Last-Modified : Tue, 08 Aug 2017 15:12:38 GMT
+ETag : W/"5989d4e6-5c2"
+Content-Encoding : gzip
+200  {'Content-Encoding': 'gzip', 'Vary': 'Accept-Encoding', 'Keep-Alive': 'timeout=20', 'Server': 'nginx', 'Last-Modified': 'Tue, 08 Aug 2017 15:12:38 GMT', 'Connection': 'keep-alive', 'ETag': 'W/"5989d4e6-5c2"', 'Date': 'Mon, 18 Nov 2019 10:06:09 GMT', 'Content-Type': 'text/html'}
+Server : nginx
+Date : Mon, 18 Nov 2019 10:06:09 GMT
+Content-Type : text/html
+Transfer-Encoding : chunked
+Connection : keep-alive
+Keep-Alive : timeout=20
+Vary : Accept-Encoding
+Last-Modified : Tue, 08 Aug 2017 15:12:38 GMT
+ETag : W/"5989d4e6-5c2"
+Content-Encoding : gzip
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:[*] Introduce IP server where MetaSploit is running:[*] Introduce Port server where MetaSploit is running:[*] Introduce user for MetaSploit:Error to connecting with MetaSploit Server
+[Errno 65] No route to host
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:[*] Introduce IP server where Nexpose is running:[*] Introduce Port server where Nexpose is running:[*] Introduce user for Nexpose:HTTPSConnectionPool(host='5', port=5): Max retries exceeded with url: /api/1.1/xml (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x105145e90>: Failed to establish a new connection: [Errno 65] No route to host',))
+Error to connecting with NeXposeServer
+
+Sites
+--------------------------
+Error to connecting with NeXposeServer for listing vulnerabilities
+'module' object has no attribute 'site_listing'
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Port 80 open
+
+[*] Started scanning 'http://172.16.0.11' 
+
+HTTP Error 400: Bad Request
+[*] Connection could not be established to http://172.16.0.11
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Port 443 open
+
+###### Started scanning for checking OPENSSL Heartbleed vulnerability '172.16.0.11' ######
+
+Connecting with ...172.16.0.11 Port: 443
+Sending Client Request...
+Waiting for Server Request...
+ ... received message: type = 22, ver = 0302, length = 94
+Sending heartbeat request...
+ ... received message: type = 22, ver = 0302, length = 808
+ ... received message: type = 22, ver = 0302, length = 331
+ ... received message: type = 22, ver = 0302, length = 4
+Unexpected EOF receiving record header - server closed connection
+No heartbeat response received, server likely not vulnerable
+-----------------------------------------------
+Final Results
+-----------------------------------------------
+No Server vulnerable found
+Unexpected EOF receiving record header - server closed connection
+Server closed connection without sending Server Request.
+
+###### Started scanning for checking OPENSSL Heartbleed vulnerability '172.16.0.11' ######
+
+Connecting with ...172.16.0.11 Port: 443
+Sending Client Request...
+Waiting for Server Request...
+ ... received message: type = 22, ver = 0302, length = 94
+Sending heartbeat request...
+ ... received message: type = 22, ver = 0302, length = 808
+ ... received message: type = 22, ver = 0302, length = 331
+ ... received message: type = 22, ver = 0302, length = 4
+Unexpected EOF receiving record header - server closed connection
+No heartbeat response received, server likely not vulnerable
+-----------------------------------------------
+Final Results
+-----------------------------------------------
+No Server vulnerable found
+Unexpected EOF receiving record header - server closed connection
+Server closed connection without sending Server Request.
+
+###### Check result with url https://filippo.io/Heartbleed/ 
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Obtaining libraries from website http://172.16.0.11
+{u'web-servers': [u'Nginx']}
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Identify Server from http://172.16.0.11
+[*] Testing http://172.16.0.11
+[*] Response from http://172.16.0.11
+Server: nginx
+Date: Mon, 18 Nov 2019 10:08:19 GMT
+Content-Type: text/html
+Content-Length: 1474
+Connection: close
+Vary: Accept-Encoding
+Last-Modified: Tue, 08 Aug 2017 15:12:38 GMT
+ETag: "5989d4e6-5c2"
+Accept-Ranges: bytes
+
+[-] No web server at https://172.16.0.11
+[*] Testing 172.16.0.11
+[*] Response from http://172.16.0.11
+Server: nginx
+Date: Mon, 18 Nov 2019 10:08:19 GMT
+Content-Type: text/html
+Content-Length: 1474
+Connection: close
+Vary: Accept-Encoding
+Last-Modified: Tue, 08 Aug 2017 15:12:38 GMT
+ETag: "5989d4e6-5c2"
+Accept-Ranges: bytes
+
+[-] No web server at https://172.16.0.11
+[*] Testing 172.16.0.11
+[*] Response from http://172.16.0.11
+Server: nginx
+Date: Mon, 18 Nov 2019 10:08:19 GMT
+Content-Type: text/html
+Content-Length: 1474
+Connection: close
+Vary: Accept-Encoding
+Last-Modified: Tue, 08 Aug 2017 15:12:38 GMT
+ETag: "5989d4e6-5c2"
+Accept-Ranges: bytes
+
+[-] No web server at https://172.16.0.11
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:

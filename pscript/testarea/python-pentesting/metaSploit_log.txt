@@ -1,0 +1,17 @@
+Error to connecting with MetaSploit Server
+[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+Choose an option:

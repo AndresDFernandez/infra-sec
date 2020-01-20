@@ -1,0 +1,225 @@
+Port 443 open
+
+###### Started scanning for checking OPENSSL Heartbleed vulnerability '172.16.0.11' ######
+
+Connecting with ...172.16.0.11 Port: 443
+Sending Client Request...
+Waiting for Server Request...
+ ... received message: type = 22, ver = 0302, length = 94
+Sending heartbeat request...
+ ... received message: type = 22, ver = 0302, length = 808
+ ... received message: type = 22, ver = 0302, length = 331
+ ... received message: type = 22, ver = 0302, length = 4
+Unexpected EOF receiving record header - server closed connection
+No heartbeat response received, server likely not vulnerable
+-----------------------------------------------
+Final Results
+-----------------------------------------------
+No Server vulnerable found
+Unexpected EOF receiving record header - server closed connection
+Server closed connection without sending Server Request.
+
+###### Started scanning for checking OPENSSL Heartbleed vulnerability '172.16.0.11' ######
+
+Connecting with ...172.16.0.11 Port: 443
+Sending Client Request...
+Waiting for Server Request...
+ ... received message: type = 22, ver = 0302, length = 94
+Sending heartbeat request...
+ ... received message: type = 22, ver = 0302, length = 808
+ ... received message: type = 22, ver = 0302, length = 331
+ ... received message: type = 22, ver = 0302, length = 4
+Unexpected EOF receiving record header - server closed connection
+No heartbeat response received, server likely not vulnerable
+-----------------------------------------------
+Final Results
+-----------------------------------------------
+No Server vulnerable found
+Unexpected EOF receiving record header - server closed connection
+Server closed connection without sending Server Request.
+
+###### Check result with url https://filippo.io/Heartbleed/ 
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Obtaining libraries from website http://172.16.0.11
+{u'web-servers': [u'Nginx']}
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Identify Server from http://172.16.0.11
+[*] Testing http://172.16.0.11
+[*] Response from http://172.16.0.11
+Server: nginx
+Date: Mon, 18 Nov 2019 10:08:19 GMT
+Content-Type: text/html
+Content-Length: 1474
+Connection: close
+Vary: Accept-Encoding
+Last-Modified: Tue, 08 Aug 2017 15:12:38 GMT
+ETag: "5989d4e6-5c2"
+Accept-Ranges: bytes
+
+[-] No web server at https://172.16.0.11
+[*] Testing 172.16.0.11
+[*] Response from http://172.16.0.11
+Server: nginx
+Date: Mon, 18 Nov 2019 10:08:19 GMT
+Content-Type: text/html
+Content-Length: 1474
+Connection: close
+Vary: Accept-Encoding
+Last-Modified: Tue, 08 Aug 2017 15:12:38 GMT
+ETag: "5989d4e6-5c2"
+Accept-Ranges: bytes
+
+[-] No web server at https://172.16.0.11
+[*] Testing 172.16.0.11
+[*] Response from http://172.16.0.11
+Server: nginx
+Date: Mon, 18 Nov 2019 10:08:19 GMT
+Content-Type: text/html
+Content-Length: 1474
+Connection: close
+Vary: Accept-Encoding
+Last-Modified: Tue, 08 Aug 2017 15:12:38 GMT
+ETag: "5989d4e6-5c2"
+Accept-Ranges: bytes
+
+[-] No web server at https://172.16.0.11
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Port 443 open
+
+###### Started scanning for checking OPENSSL Heartbleed vulnerability '172.16.0.1' ######
+
+Connecting with ...172.16.0.1 Port: 443
+Sending Client Request...
+Waiting for Server Request...
+ ... received message: type = 22, ver = 0302, length = 66
+Sending heartbeat request...
+ ... received message: type = 22, ver = 0302, length = 933
+ ... received message: type = 22, ver = 0302, length = 331
+ ... received message: type = 22, ver = 0302, length = 4
+Unexpected EOF receiving record header - server closed connection
+No heartbeat response received, server likely not vulnerable
+-----------------------------------------------
+Final Results
+-----------------------------------------------
+No Server vulnerable found
+Unexpected EOF receiving record header - server closed connection
+Server closed connection without sending Server Request.
+
+###### Started scanning for checking OPENSSL Heartbleed vulnerability '172.16.0.1' ######
+
+Connecting with ...172.16.0.1 Port: 443
+Sending Client Request...
+Waiting for Server Request...
+ ... received message: type = 22, ver = 0302, length = 66
+Sending heartbeat request...
+ ... received message: type = 22, ver = 0302, length = 933
+ ... received message: type = 22, ver = 0302, length = 331
+ ... received message: type = 22, ver = 0302, length = 4
+Unexpected EOF receiving record header - server closed connection
+No heartbeat response received, server likely not vulnerable
+-----------------------------------------------
+Final Results
+-----------------------------------------------
+No Server vulnerable found
+Unexpected EOF receiving record header - server closed connection
+Server closed connection without sending Server Request.
+
+###### Check result with url https://filippo.io/Heartbleed/ 
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+Choose an option:
