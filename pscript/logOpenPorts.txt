@@ -1,0 +1,1909 @@
+Cheking ports....
+['80', '8080']
+Port 80: 	 Open
+Scanning Completed in:  0:00:00.016025
+Checking Port 80.....: 
+172.16.0.11     -> Open Port                               
+172.16.0.11     -> Closed Port: (global name 'selenium' is not defined)
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Scanning Options
+[1] Intense Scan
+[2] Intense Scan + UDP
+[3] Intense Scan - all TCP ports
+[4] Intense Scan without ping
+[5] Ping Scan
+[6] Quickie Scan
+[7] Quick Traceroute
+[8] Normal Scan
+[9] Send Bad Checksums
+[10] Generate Randon Mac Adress Spoofing for Evasion
+[11] Fragment Packets
+Choose your Scanning Option:
+[**] Done 
+
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Port 22 open
+Would you like start brute force process over 172.16.0.11?[s/n][*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :123456
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :12345
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :123456789
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :password
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :iloveyou
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :princess
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :1234567
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :12345678
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :abc123
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :nicole
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :daniel
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :babygirl
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :monkey
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :lovely
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jessica
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :654321
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :michael
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :ashley
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :qwerty
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :111111
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :iloveu
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :000000
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :michelle
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :tigger
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sunshine
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :chocolate
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :password1
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :soccer
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :anthony
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :friends
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :butterfly
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :purple
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :angel
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jordan
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :liverpool
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :justin
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :loveme
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :fuckyou
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :123123
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :football
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :secret
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :andrea
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :carlos
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jennifer
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :joshua
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :bubbles
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :1234567890
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :superman
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :hannah
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :amanda
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :loveyou
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :pretty
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :basketball
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :andrew
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :angels
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :tweety
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :flower
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :playboy
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :hello
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :elizabeth
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :hottie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :tinkerbell
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :charlie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :samantha
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :barbie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :chelsea
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :lovers
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :teamo
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jasmine
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :brandon
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :666666
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :shadow
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :melissa
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :eminem
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :matthew
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :robert
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :danielle
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :forever
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :family
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jonathan
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :987654321
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :computer
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :whatever
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :dragon
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :vanessa
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cookie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :naruto
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :summer
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sweety
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :spongebob
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :joseph
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :junior
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :softball
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :taylor
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :yellow
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :daniela
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :lauren
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mickey
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :princesa
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :alexandra
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :alexis
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jesus
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :estrella
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :miguel
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :william
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :thomas
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :beautiful
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mylove
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :angela
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :poohbear
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :patrick
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :iloveme
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sakura
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :adrian
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :alexander
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :destiny
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :christian
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :121212
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sayang
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :america
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :dancer
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :monica
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :richard
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :112233
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :princess1
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :555555
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :diamond
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :carolina
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :steven
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :rangers
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :louise
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :orange
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :789456
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :999999
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :shorty
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :11111
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :nathan
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :snoopy
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :gabriel
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :hunter
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cherry
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :killer
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sandra
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :alejandro
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :buster
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :george
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :brittany
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :alejandra
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :patricia
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :rachel
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :tequiero
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :7777777
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cheese
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :159753
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :arsenal
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :dolphin
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :antonio
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :heather
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :david
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :ginger
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :stephanie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :peanut
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :blink182
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sweetie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :222222
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :beauty
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :987654
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :victoria
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :honey
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :00000
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :fernando
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :pokemon
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :maggie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :corazon
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :chicken
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :pepper
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cristina
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :rainbow
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :kisses
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :manuel
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :myspace
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :rebelde
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :angel1
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :ricardo
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :babygurl
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :heaven
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :55555
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :baseball
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :martin
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :greenday
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :november
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :alyssa
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :madison
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mother
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :123321
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :123abc
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mahalkita
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :batman
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :september
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :december
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :morgan
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mariposa
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :maria
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :gabriela
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :iloveyou2
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :bailey
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jeremy
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :pamela
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :kimberly
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :gemini
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :shannon
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :pictures
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :asshole
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sophie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jessie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :hellokitty
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :claudia
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :babygirl1
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :angelica
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :austin
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mahalko
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :victor
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :horses
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :tiffany
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mariana
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :eduardo
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :andres
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :courtney
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :booboo
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :kissme
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :harley
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :ronaldo
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :iloveyou1
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :precious
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :october
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :inuyasha
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :peaches
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :veronica
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :chris
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :888888
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :adriana
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cutie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :james
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :banana
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :prince
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :friend
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jesus1
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :crystal
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :celtic
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :zxcvbnm
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :edward
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :oliver
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :diana
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :samsung
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :freedom
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :angelo
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :kenneth
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :master
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :scooby
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :carmen
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :456789
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sebastian
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :rebecca
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jackie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :spiderman
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :christopher
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :karina
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :johnny
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :hotmail
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :0123456789
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :school
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :barcelona
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :august
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :orlando
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :samuel
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cameron
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :slipknot
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cutiepie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :monkey1
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :50cent
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :bonita
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :kevin
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :bitch
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :maganda
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :babyboy
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :casper
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :brenda
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :adidas
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :kitten
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :karen
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mustang
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :isabel
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :natalie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cuteako
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :javier
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :789456123
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :123654
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sarah
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :bowwow
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :portugal
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :laura
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :777777
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :marvin
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :denise
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :tigers
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :volleyball
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jasper
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :january
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :fuckoff
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :alicia
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :nicholas
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :flowers
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cristian
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :tintin
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :bianca
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :chrisbrown
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :chester
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :101010
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :smokey
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :silver
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :internet
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :sweet
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :strawberry
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :garfield
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :dennis
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :panget
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :francis
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cassie
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :benfica
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :love123
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :696969
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :asdfgh
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :lollipop
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :olivia
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :cancer
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :camila
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :qwertyuiop
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :superstar
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :harrypotter
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :ihateyou
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :charles
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :monique
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :midnight
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :vincent
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :christine
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :apples
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :scorpio
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :jordan23
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :lorena
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :andreea
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mercedes
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :katherine
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :charmed
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :abigail
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :rafael
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :icecream
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :mexico
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :brianna
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :nirvana
+Error ssh connection
+[*] Testing user and password from dictionary
+[*] User: ﻿4Dgifts
+[*] Pass :aaliyah
+Cheking ports....
+['80', '8080']
+Port 80: 	 Open
+Scanning Completed in:  0:00:00.017685
+Checking Port 80.....: 
+172.16.0.1      -> Open Port                               
+172.16.0.1      -> Closed Port: (global name 'selenium' is not defined)
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Cheking ports....
+['80', '8080']
+Port 80: 	 Open
+Scanning Completed in:  0:00:00.012155
+Checking Port 80.....: 
+172.16.0.1      -> Open Port                               
+172.16.0.1      -> Closed Port: (global name 'selenium' is not defined)
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Cheking ports....
+['80', '8080']
+Port 80: 	 Open
+Scanning Completed in:  0:00:00.028646
+Checking Port 80.....: 
+172.16.0.1      -> Open Port                               
+172.16.0.1      -> Closed Port: (global name 'selenium' is not defined)
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Cheking ports....
+['80', '8080']
+Port 80: 	 Open
+Scanning Completed in:  0:00:00.014113
+Checking Port 80.....: 
+172.16.0.1      -> Open Port                               
+172.16.0.1      -> Closed Port: (global name 'selenium' is not defined)
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:[*] Scanning ports 80,8080...
+Checking port 80 ..........
+[*] Execuing command: nmap -oX - -p 80 -sV 172.16.0.1
+ [+] 172.16.0.1 tcp/80 open
+{'product': 'lighttpd', 'state': 'open', 'version': '', 'name': 'http', 'conf': '10', 'extrainfo': '', 'reason': 'syn-ack', 'cpe': 'cpe:/a:lighttpd:lighttpd'}
+ [+] lighttpd  tcp/80
+Checking port 8080 ..........
+[*] Execuing command: nmap -oX - -p 8080 -sV 172.16.0.1
+ [+] 172.16.0.1 tcp/8080 closed
+{'product': '', 'state': 'closed', 'version': '', 'name': 'http-proxy', 'conf': '3', 'extrainfo': '', 'reason': 'conn-refused', 'cpe': ''}
+ [+]   tcp/8080
+Checking ports 80,8080 ..........
+[*] Execuing command: nmap -oX - -p 80,8080 -sV 172.16.0.1
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+172.16.0.1;;;tcp;80;http;open;lighttpd;;syn-ack;;10;cpe:/a:lighttpd:lighttpd
+172.16.0.1;;;tcp;8080;http-proxy;closed;;;conn-refused;;3;
+
+[*] File 'scan_172.16.0.1.json' was generated with scan results
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Error to connect with 172.16.0.1 for obtain option methods
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:-------------------------------------------
+Obtain domain and DNS
+-------------------------------------------
+No root WHOIS server found for domain.
+
+Information about DNS servers
+---------------------------------
+None of DNS query names exist: 172.16.0.1., 172.16.0.1.localdomain.
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:172.16.0.1
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Cheking ports....
+['80', '8080']
+Port 80: 	 Open
+Scanning Completed in:  0:00:00.009221
+Checking Port 80.....: 
+172.16.0.1      -> Open Port                               
+172.16.0.1      -> Closed Port: (global name 'selenium' is not defined)
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Cheking ports....
+80,8080

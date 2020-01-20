@@ -1,0 +1,169 @@
+[*] Scanning ports 80,8080...
+Checking port 80 ..........
+[*] Execuing command: nmap -oX - -p 80 -sV 172.16.0.1
+ [+] 172.16.0.1 tcp/80 open
+{'product': 'lighttpd', 'state': 'open', 'version': '', 'name': 'http', 'conf': '10', 'extrainfo': '', 'reason': 'syn-ack', 'cpe': 'cpe:/a:lighttpd:lighttpd'}
+ [+] lighttpd  tcp/80
+Checking port 8080 ..........
+[*] Execuing command: nmap -oX - -p 8080 -sV 172.16.0.1
+ [+] 172.16.0.1 tcp/8080 closed
+{'product': '', 'state': 'closed', 'version': '', 'name': 'http-proxy', 'conf': '3', 'extrainfo': '', 'reason': 'conn-refused', 'cpe': ''}
+ [+]   tcp/8080
+Checking ports 80,8080 ..........
+[*] Execuing command: nmap -oX - -p 80,8080 -sV 172.16.0.1
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+172.16.0.1;;;tcp;80;http;open;lighttpd;;syn-ack;;10;cpe:/a:lighttpd:lighttpd
+172.16.0.1;;;tcp;8080;http-proxy;closed;;;conn-refused;;3;
+
+[*] File 'scan_172.16.0.1.json' was generated with scan results
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Error to connect with 172.16.0.1 for obtain option methods
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:-------------------------------------------
+Obtain domain and DNS
+-------------------------------------------
+No root WHOIS server found for domain.
+
+Information about DNS servers
+---------------------------------
+None of DNS query names exist: 172.16.0.1., 172.16.0.1.localdomain.
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:172.16.0.1
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:

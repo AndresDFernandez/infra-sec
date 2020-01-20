@@ -1,0 +1,47 @@
+Checking cookies from http://172.16.0.11
+<RequestsCookieJar[]>
+
+ [*] IP/Hostname: 172.16.0.11 / 172.16.0.11
+[0]-->EXIT
+[1]-->Check Open Ports[80,8080 by default]
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[4]-->Check Option methods
+[5]-->Check DNS Servers info
+[6]-->Check Host info from Shodan Service
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[9]-->GeoLocation Host Info
+[10]-->Scraping for images and pdf & obtain metadata
+[11]-->Get Headers info
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[16]-->HTTP SCAN[Requires port 80 opened]
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+[22]-->Check website libraries
+[23]-->Identify web server
+[24]-->Check headers & Clickjacking
+[25]-->Check Cookies from website
+Choose an option:Checking headers from http://172.16.0.11
+Checking X-XSS-Protection...
+X-XSS-Protection not set, XSS may be possible
+----------------------------------
+Checking X-Content-Type-Options...
+X-Content-Type-Options not set
+----------------------------------
+Checking Strict-Transport-Security...
+HSTS header not set, MITM should be possible via HTTP
+----------------------------------
+Checking x-frame-options...
+X-FRAME-OPTIONS missing
+----------------------------------
+Checking Content-Security-Policy...
+Content-Security-Policy missing
+----------------------------------
+Checking clickjacking...

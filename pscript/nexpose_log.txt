@@ -1,0 +1,79 @@
+
+Sites
+--------------------------
+Error to connecting with NeXposeServer for listing vulnerabilities
+'module' object has no attribute 'site_listing'
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+Choose an option:Port 443 open
+
+###### Started scanning for checking OPENSSL Heartbleed vulnerability '172.16.0.1' ######
+
+Connecting with ...172.16.0.1 Port: 443
+Sending Client Request...
+Waiting for Server Request...
+ ... received message: type = 22, ver = 0302, length = 66
+Sending heartbeat request...
+ ... received message: type = 22, ver = 0302, length = 933
+ ... received message: type = 22, ver = 0302, length = 331
+ ... received message: type = 22, ver = 0302, length = 4
+Unexpected EOF receiving record header - server closed connection
+No heartbeat response received, server likely not vulnerable
+-----------------------------------------------
+Final Results
+-----------------------------------------------
+No Server vulnerable found
+Unexpected EOF receiving record header - server closed connection
+Server closed connection without sending Server Request.
+
+###### Started scanning for checking OPENSSL Heartbleed vulnerability '172.16.0.1' ######
+
+Connecting with ...172.16.0.1 Port: 443
+Sending Client Request...
+Waiting for Server Request...
+ ... received message: type = 22, ver = 0302, length = 66
+Sending heartbeat request...
+ ... received message: type = 22, ver = 0302, length = 933
+ ... received message: type = 22, ver = 0302, length = 331
+ ... received message: type = 22, ver = 0302, length = 4
+Unexpected EOF receiving record header - server closed connection
+No heartbeat response received, server likely not vulnerable
+-----------------------------------------------
+Final Results
+-----------------------------------------------
+No Server vulnerable found
+Unexpected EOF receiving record header - server closed connection
+Server closed connection without sending Server Request.
+
+###### Check result with url https://filippo.io/Heartbleed/ 
+
+ [*] IP/Hostname: 172.16.0.1 / 172.16.0.1
+[0]-->EXIT
+[2]-->Port Scanning[It will scan over ports parameter,by default it will scan 80 and 8080]
+[3]-->Nmap Scanning Advanced
+[7]-->NMAP Port Scanning
+[8]-->Host Info by Socket Call
+[12]-->Get SSH user/password Brute Force[Requires port 22 opened]
+[13]-->Get FTP Anonymous access[Requires port 21 opened]
+[14]-->MetaSploitFrameWork
+[15]-->NexposeFramework
+[17]-->Check HeartBleed OpenSSL vulnerability[Requires port 443 opened]
+[18]-->Check FTP Server Buffer Overflow Vulnerability[Requires port 21 opened]
+[19]-->Check Vulnerabilities SQL,XSS,LFI in domain
+[20]-->Check Domains and obtain metadata[mails, hosts, servers,urls]
+[21]-->Check open ports with scapy
+Choose an option:
